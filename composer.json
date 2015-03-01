@@ -18,9 +18,5 @@
     "issues": "http://www.advancedcustomfields.com/",
     "forum": "http://www.advancedcustomfields.com/"
   },
-  "require": {
-    "php": ">=5.5.0",
-    "composer/installers": "~1.0"
-  },
   "minimum-stability": "dev"
 }
