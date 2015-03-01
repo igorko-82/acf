@@ -1,0 +1,25 @@
+{
+  "name": "acf",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Powerful fields for WordPress developers",
+  "homepage": "http://www.advancedcustomfields.com/",
+  "authors": [
+    {
+      "name": "Elliot Condon",
+      "email": "info@advancedcustomfields.com",
+      "homepage": "http://www.advancedcustomfields.com/"
+    }
+  ],
+  "keywords": [
+    "wordpress"
+  ],
+  "support": {
+    "issues": "http://www.advancedcustomfields.com/",
+    "forum": "http://www.advancedcustomfields.com/"
+  },
+  "require": {
+    "php": ">=5.3.0",
+    "composer/installers": "~1.0"
+  }
+}
